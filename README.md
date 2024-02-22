@@ -1,6 +1,6 @@
 <p align="center">
   <a> target="_blank" rel="noreferrer"><img src="[![Navy Blue Geometric Technology LinkedIn Banner (2)](https://github.com/elektrasta/elektrasta/assets/121095446/f4024159-2983-43db-92be-dbf2837401f5)](https://www.linkedin.com/in/%C3%B6mer-faruk-%C3%A7etinkaya-00626925b/overlay/background-image/)" alt="my banner"></a>
-</p>![Navy Blue Geometric Technology LinkedIn Banner (2)](https://github.com/elektrasta/elektrasta/assets/121095446/f4024159-2983-43db-92be-dbf2837401f5)
+</p>
 
 
 <h3 align="center">

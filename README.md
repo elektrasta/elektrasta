@@ -57,6 +57,3 @@ src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elektrasta)](https://github.com/elektrasta)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elektrasta&layout=compact)](https://github.com/elektrasta)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=elektrasta.https://github.com/elektrasta?tab=repositories)](https://github.com/elektrasta)
-

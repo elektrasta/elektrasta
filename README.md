@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Omer Faruk Cetinkaya</a> 👋
+Hi there, I'm <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-%C3%A7etinkaya-00626925b/" target="_blank" rel="noreferrer">Omer Faruk Cetinkaya</a> 👋
 </h3>
 
 <h2 align="center">

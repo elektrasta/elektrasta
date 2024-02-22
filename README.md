@@ -1,5 +1,6 @@
 <p align="center">
-  <a> target="_blank" rel="noreferrer"><img src="(https://www.linkedin.com/in/%C3%B6mer-faruk-%C3%A7etinkaya-00626925b/overlay/background-image/)" alt="my banner"></a>
+  <a> target="_blank" rel="noreferrer"><img src="![image](https://github.com/elektrasta/elektrasta/assets/121095446/7195655f-475f-47b6-b2cd-42b154b9b6f9)
+" alt="my banner"></a>
 </p>
 
 

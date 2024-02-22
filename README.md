@@ -1,6 +1,5 @@
 <p align="center">
-  <a> target="_blank" rel="noreferrer"><img src="![image](https://github.com/elektrasta/elektrasta/assets/121095446/7195655f-475f-47b6-b2cd-42b154b9b6f9)
-" alt="my banner"></a>
+  <a> target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D16AQE_G2JVkWXrCQ/profile-displaybackgroundimage-shrink_350_1400/0/1708593792552?e=1714003200&v=beta&t=d9XUlmKihvRU4G9mXYgI_961GRytBIdh1Mec_85_Jg4" alt="my banner"></a>
 </p>
 
 

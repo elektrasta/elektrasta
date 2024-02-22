@@ -1,4 +1,5 @@
-<p align="center">
+<p align="center">![Navy Blue Geometric Technology LinkedIn Banner (2)](https://github.com/elektrasta/elektrasta/assets/121095446/a6558b00-5274-48f2-a3b5-b0034700709b)
+
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
 </p>
 

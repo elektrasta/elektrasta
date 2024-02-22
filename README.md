@@ -36,7 +36,7 @@ src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram
 
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Godot_Engine-informational?style=flat&logo=godot-engine&color=478CBF)
-![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=c-sharp&color=239120)
+![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=.net&color=239120)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)

@@ -23,18 +23,14 @@ src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- My old projects (Godot Engine)
+- Weight loss mobile App (Flutter)
+- Bodybuilding mobile App (Flutter)
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
+- 📱 Flutter
 - Firebase
-- React Context API
-- Styled Components  
 
 ## 💼 Technical Skills
 

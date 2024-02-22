@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)

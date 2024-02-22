@@ -1,5 +1,7 @@
-<p
-<img src="[https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/elektrasta/elektrasta/assets/121095446/a6558b00-5274-48f2-a3b5-b0034700709b)" alt="banner'ım"></p>
+<p align="center">
+  <a> target="_blank" rel="noreferrer"><img src="![Navy Blue Geometric Technology LinkedIn Banner (2)](https://github.com/elektrasta/elektrasta/assets/121095446/f4024159-2983-43db-92be-dbf2837401f5)" alt="my banner"></a>
+</p>![Navy Blue Geometric Technology LinkedIn Banner (2)](https://github.com/elektrasta/elektrasta/assets/121095446/f4024159-2983-43db-92be-dbf2837401f5)
+
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋

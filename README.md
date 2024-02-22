@@ -8,7 +8,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-%C3%A7etinkay
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Godot Engine Game Developer , and Mobile Application Developer 💻!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.

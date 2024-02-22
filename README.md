@@ -54,6 +54,4 @@ src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elektrasta)](https://github.com/elektrasta)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elektrasta&layout=compact)](https://github.com/elektrasta)

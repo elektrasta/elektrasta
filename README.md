@@ -58,4 +58,4 @@ src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elektrasta&layout=compact)](https://github.com/elektrasta)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Felektrasta&countColor=%23263759&style=plastic)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Felektrasta&countColor=%23263759&style=flat)

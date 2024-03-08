@@ -1,7 +1,7 @@
 <p align="center">
-  <a><img src="https://media.licdn.com/dms/image/D4D16AQHFjBcfeqRflA/profile-displaybackgroundimage-shrink_350_1400/0/1709282474121?e=1714608000&v=beta&t=6Ax20hj34PksBpncFLJWVZ36OG-DTqnhvxRota-UCdw" alt="my banner"></a>
+<marquee>  <a><img src="https://media.licdn.com/dms/image/D4D16AQHFjBcfeqRflA/profile-displaybackgroundimage-shrink_350_1400/0/1709282474121?e=1714608000&v=beta&t=6Ax20hj34PksBpncFLJWVZ36OG-DTqnhvxRota-UCdw" alt="my banner"></a></marquee>
 </p>
-
+<marquee><img src="http://www.sitekodlari.com/img/ari.png"></marquee>
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-%C3%A7etinkaya-00626925b/" target="_blank" rel="noreferrer">Omer Faruk Cetinkaya</a> 👋
